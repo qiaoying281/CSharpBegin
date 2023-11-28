@@ -1,0 +1,14 @@
+E:\C# learn\C# basic\bai24\bin\Debug\net6.0\bai24.exe
+E:\C# learn\C# basic\bai24\bin\Debug\net6.0\bai24.deps.json
+E:\C# learn\C# basic\bai24\bin\Debug\net6.0\bai24.runtimeconfig.json
+E:\C# learn\C# basic\bai24\bin\Debug\net6.0\bai24.dll
+E:\C# learn\C# basic\bai24\bin\Debug\net6.0\bai24.pdb
+E:\C# learn\C# basic\bai24\obj\Debug\net6.0\bai24.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# learn\C# basic\bai24\obj\Debug\net6.0\bai24.AssemblyInfoInputs.cache
+E:\C# learn\C# basic\bai24\obj\Debug\net6.0\bai24.AssemblyInfo.cs
+E:\C# learn\C# basic\bai24\obj\Debug\net6.0\bai24.csproj.CoreCompileInputs.cache
+E:\C# learn\C# basic\bai24\obj\Debug\net6.0\bai24.dll
+E:\C# learn\C# basic\bai24\obj\Debug\net6.0\refint\bai24.dll
+E:\C# learn\C# basic\bai24\obj\Debug\net6.0\bai24.pdb
+E:\C# learn\C# basic\bai24\obj\Debug\net6.0\bai24.genruntimeconfig.cache
+E:\C# learn\C# basic\bai24\obj\Debug\net6.0\ref\bai24.dll
